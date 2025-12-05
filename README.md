@@ -6,7 +6,7 @@ Purpose: This project compares the amount of time it takes for several different
 Introduction Video Link:
 https://youtu.be/JHFLZYy9Yx4
 
-Code: The code is written in C++ and python. A kaggle (jupiter) notebook was created as well.
+Code: The code is written in C++ and python. A kaggle (jupyter) notebook was created as well.
 
 Presentation: The presentation sums up the project.
 
